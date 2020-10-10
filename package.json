@@ -1,0 +1,23 @@
+{
+  "name": "testworkspace",
+  "version": "1.0.0",
+  "description": "just a exercise asdasd c3 a Change  by Wythe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weixiaoH/testWorkSpace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weixiaoH/testWorkSpace/issues"
+  },
+  "homepage": "https://github.com/weixiaoH/testWorkSpace#readme",
+  "dependencies": {
+    "node": "^14.13.0",
+    "typescript": "^4.0.3"
+  }
+}
